@@ -1,16 +1,25 @@
-### Hi there 👋
+![image](/images/barra-gradient.png)
+## Hi there 👋 , I'm Cecilia.
+#### Fullstack Web Developer
 
-<!--
-**ckpd84/ckpd84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Those are my skills:
+- HTML
+- CSS
+- JAVASCRIPT
+- NODE
+- EXPRESS
+- REACT
 
-Here are some ideas to get you started:
+# 
+###### About me:
+- :computer:  I’m currently working on my portoflio
+- :blush:  Always learning something...
+- :mag: I’m looking for my first job as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+#### How to reach me: 
+> [Linkedin](https://www.linkedin.com/in/cecilia-denaro-7a15801a9/).
+> 
+> [CodePen](https://codepen.io/ckpd84)
+
+![image](/images/barra-gradient.png)
