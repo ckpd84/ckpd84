@@ -20,6 +20,9 @@
 #### How to reach me: 
 > [Linkedin](https://www.linkedin.com/in/cecilia-denaro-7a15801a9/).
 > 
-> [CodePen](https://codepen.io/ckpd84)
+> [CodePen](https://codepen.io/ckpd84).
+> 
+> [Portofolio](ceciliadenaro.vercel.app)
+
 
 ![image](/images/barra-gradient.png)
